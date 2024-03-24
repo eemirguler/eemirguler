@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently working on **Natural Language Chatbot for Customer Support**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/eemirguler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eemirguler" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17233773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17233773" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/wiitcha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wiitcha" height="30" width="40" /></a>
