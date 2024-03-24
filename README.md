@@ -10,6 +10,7 @@
 <a href="https://linkedin.com/in/eemirguler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eemirguler" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17233773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17233773" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/wiitcha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wiitcha" height="30" width="40" /></a>
+<a href="https://www.instagram.com/eemirguler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wiitcha" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
